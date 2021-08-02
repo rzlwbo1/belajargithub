@@ -1,4 +1,8 @@
 #hello
-Bahasa pemograman
-- php
-- js
+
+Bahasa Pemograman
+- C++
+- JS
+- PHP
+- GO
+
